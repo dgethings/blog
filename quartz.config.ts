@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Serendipitous Technology",
+    pageTitle: "Layer 8",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

@@ -2,6 +2,8 @@
 title: Home
 description: What is this and how to use it
 draft: false
+tags: 
+date: 2024-10-05
 ---
 This website is my public thoughts on [[Network Automation]]. These are my own personal thoughts and are in no way a representation of whichever company I have or am working for.
 

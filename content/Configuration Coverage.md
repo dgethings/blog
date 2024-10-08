@@ -3,6 +3,8 @@ tags:
 title: Validating Network Designs
 description: How to use BDD to validate your network design
 draft: true
+aliases: 
+date: 2024-10-06
 ---
 How to do testing coverage like code coverage but for network configurations.
 Use Gherkin, BDD, to define the behaviour of your network design

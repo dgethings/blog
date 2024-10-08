@@ -45,11 +45,11 @@ If not done already you have made the realisation that the intended state of the
 # Network Orchestration
 This stage is about maturing the automation such that everything is done via service orchestration. That only the most novel or tricky of situations require human intervention and there is a way to integrate these new things into an automated workflow.
 
-You can expose these services to other Infrastructure teams such that they can treat the network as a [[PaaS]], or in house [[NaaS]]. This stage can also be viewed as [[Intent Based Networking]].
+You can expose these services to other Infrastructure teams such that they can treat the network as a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), or in house [NaaS](https://en.wikipedia.org/wiki/Network_as_a_service). This stage can also be viewed as [Intent Based Networking](https://datatracker.ietf.org/doc/rfc9315/).
 # Infrastructure Orchestration
 This is the final stage. Here pilars of Infrastructure are integrated such that it is fully business aligned. For example at this stage you use automation to fully - and accurately - predict the costs and lead time to business questions such as "how long and how much will it cost to build an AI model to X".
 
-While there are still separate teams that manage networking, compute and storage, the alignment of these teams is very strong. This means that application owners can describe the resources their application needs and the [[PaaS]] automatically creates and manages the infrastructure needed.
+While there are still separate teams that manage networking, compute and storage, the alignment of these teams is very strong. This means that application owners can describe the resources their application needs and the [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) automatically creates and manages the infrastructure needed.
 
 
 
