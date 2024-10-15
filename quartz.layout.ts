@@ -6,6 +6,7 @@ import { ContentIndex } from "./quartz/plugins/emitters/contentIndex.ts";
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/dgethings",
