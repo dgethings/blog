@@ -1,8 +1,9 @@
 ---
-tags: 
+tags:
+  - concept
 title: Validating Network Designs
 description: How to use BDD to validate your network design
-draft: true
+draft: false
 aliases: 
 date: 2024-10-06
 ---

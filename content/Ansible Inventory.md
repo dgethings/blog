@@ -1,8 +1,9 @@
 ---
 title: Ansible Inventory
-description: 
+description: How to populate the list of devices managed by Ansible
 draft: false
-tags: 
+tags:
+  - tool
 date: 2024-10-05 19:42
 ---
 An Ansible Inventory is part of [[Ansible]] that defines the set of hosts that are managed by Ansible.

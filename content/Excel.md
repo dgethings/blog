@@ -2,7 +2,8 @@
 title: Excel
 description: 
 draft: false
-tags: 
+tags:
+  - tool
 date: 2024-10-05 19:46
 ---
 Well, who doesn't know Excel! But it is frightening how Excel has been used an abused over the years.
