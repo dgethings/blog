@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "dgethings.github.io/blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
