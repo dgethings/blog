@@ -1,5 +1,5 @@
 ---
-title: creating a network source of truth
+title: Creating a Network Source of Truth
 description: 
 draft: true
 tags:

@@ -15,9 +15,9 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-GB",
-    baseUrl: "dgethings.github.io/blog",
+    baseUrl: "layer8.serendipitous.technology",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
