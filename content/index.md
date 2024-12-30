@@ -33,6 +33,8 @@ Anyway, to get started the best thing to look at the most recently updated pages
 [[Source of Truth]]
 ## Video
 [[Gitops for Networking]]
+## Observability
+[[SuzieQ]]
 
 
 
