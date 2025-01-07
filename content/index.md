@@ -14,9 +14,9 @@ Anyway, to get started the best thing to look at the most recently updated pages
 ## Concept
 [[Configuration Coverage]]
 [[Source of Truth]]
-[[Version control]]
+[[Version Control Systems]]
 ## Git
-[[Version control]]
+[[Gitflow for Config Template Management]]
 ## Language
 [[Python]]
 ## Learning
